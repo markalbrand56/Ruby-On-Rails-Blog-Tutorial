@@ -27,3 +27,4 @@ Things you may want to cover:
     - Rich text
     - Comments
         - Mailer for new comments
+        - Live event (hot wire)
