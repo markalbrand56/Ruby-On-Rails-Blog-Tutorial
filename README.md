@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+- Posts
+    - Rich text
+    - Comments
+        - Mailer for new comments
